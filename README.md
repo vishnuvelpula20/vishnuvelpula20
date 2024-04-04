@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!--Results Driven Data Engineer with around 4 years of experience working. Well-acquainted with Pipelines, Data structures, Data management, and processing systems. Strong desire to expand my skill set, and face new challenges, fueled by curiosity and passion to move forward in the field of Data Engineering. Learns quickly and effectively due to self-motivation.
 **vishnuvelpula20/vishnuvelpula20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
