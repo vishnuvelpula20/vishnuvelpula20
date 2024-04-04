@@ -5,5 +5,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Data Engineer for a HealthCare Client.
+
 Reach me at: Email: vishnu.velpula20@gmail.com
 
