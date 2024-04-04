@@ -6,5 +6,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Data Engineer for a HealthCare Client.
 💬 Ask me about Data Engineering,Analytics Engineering.
-📫 How to reach me : Email: [Gmail](vishnu.velpula20@gmail.com), [Linkedin](www.linkedin.com/in/vishnuvelpula)
+📫 How to reach me : [linkedIn](https://www.linkedin.com/in/vishnuvelpula)
 
